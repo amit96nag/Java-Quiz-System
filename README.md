@@ -1,4 +1,4 @@
-**📘## Java Console Quiz System**
+##**📘 Java Console Quiz System**
 
 This is a Java-based console quiz application with role-based login.
 Users can log in as either an Admin or a Student:
