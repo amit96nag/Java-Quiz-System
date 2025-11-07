@@ -19,11 +19,12 @@ https://drive.google.com/file/d/1XQm9LfnkTAFOv4Bt5vhhiAtZ4mJ_YbLP/view?usp=drive
 10 random questions (no repetition)
 Correctness feedback for each answer
 Score and performance summary
-##🗂️ JSON-based data storage (users.json, quiz.json)
 
-##🔁 Option to retake the quiz
+🗂️ JSON-based data storage (users.json, quiz.json)
 
-##💻 Technologies Used
+🔁 Option to retake the quiz
+
+💻 Technologies Used
 Tool	Purpose
 Java (JDK 17)	Core programming language
 IntelliJ IDEA	Recommended IDE for development
